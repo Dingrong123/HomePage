@@ -38,14 +38,11 @@ I'm currently a Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu
 My research interest focuses on *<u>Wireless-Enpowered Intelligent Systems</u>*. Specifically, the long term goal of my research is to develop innovative wireless sensing, communication, and AI techniques that enhance the intelligence of mobile systems for better serving our lives. 
 
 # 📖 Educations
-- *2021.09 - Now*, Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University. 
-- *2017.09 - 2021.06*,  School of Computer Science (Honored), Shanghai Jiao Tong University.
+- *2021.09 - Now*, Ph.D. Student, Computer Science, Shanghai Jiao Tong University. 
+- *2017.09 - 2021.06*, Bachelor, Computer Science (Honored), Shanghai Jiao Tong University.
 
 
-# 📝 Publications 
-
-## First-Author Papers
-
+# 📝 Selected Publications 
 - <div class="pubtitle">ACM MobiCom'25</div> &nbsp; <b>[Bluetooth-Enabled Transparent RF Sensing](https://dl.acm.org/doi/10.1145/3680207.3723468).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ningzhi Zhu, Zijie Chen, Yi Fu, Fengyuan Zhu, Guiyun Fan, Xiaohua
 Tian, Linghe Kong. <i>Proceedings of the ACM Annual International
 Conference on Mobile Computing and Networking, 2025.</i> <b><font color="#BD666D">CCF-A.</font></b> [paper](https://github.com/Dingrong123/HomePage/blob/main/MOBICOM25.pdf)
