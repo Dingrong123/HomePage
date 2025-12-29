@@ -57,5 +57,5 @@ My research interest focuses on *<u>Wireless-Enpowered Intelligent Systems</u>*.
 # 🎖 Honors and Awards
 - Wu Wen Jun Honorary Doctoral Plan, Shanghai Jiao Tong University, 2021-2025
 - Zhiyuan Outstanding Student Award, Shanghai Jiao Tong University, 2021
-- Honorable Graduate Student, Shanghai Jiao Tong University, 2021 
+- Honorary Graduate Student, Shanghai Jiao Tong University, 2021 
   
