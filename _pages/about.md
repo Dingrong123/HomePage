@@ -47,16 +47,16 @@ My research interest focuses on *<u>Wireless-Enpowered Intelligent Systems</u>*.
 ## First-Author Papers
 
 - <div class="pubtitle">ACM MobiCom'25</div> &nbsp; <b>[Bluetooth-Enabled Transparent RF Sensing](https://dl.acm.org/doi/10.1145/3680207.3723468).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ningzhi Zhu, Zijie Chen, Yi Fu, Fengyuan Zhu, Guiyun Fan, Xiaohua
-Tian, Linghe Kong. <br /> <i>Proceedings of the ACM Annual International
-Conference on Mobile Computing and Networking, 2025.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [paper](https://gongchenooo.github.io/assets/pdf/SigMetrics26-AdaLog-Paper.pdf)]
+Tian, Linghe Kong. <i>Proceedings of the ACM Annual International
+Conference on Mobile Computing and Networking, 2025.</i> <b><font color="#BD666D">CCF-A.</font></b>  [paper](https://gongchenooo.github.io/assets/pdf/SigMetrics26-AdaLog-Paper.pdf)]
 
-- <div class="pubtitle">ACM/IEEE SenSys'23</div> &nbsp; <b>[Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV](https://dl.acm.org/doi/abs/10.1145/3625687.3625795).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Jianrong Ding, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong. <br /> <i>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems, 2023.</i> <br /> <b><font color="#BD666D">CCF-B.</font></b> <br /> [paper] 
+- <div class="pubtitle">ACM/IEEE SenSys'23</div> &nbsp; <b>[Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV](https://dl.acm.org/doi/abs/10.1145/3625687.3625795). <u><b>Rong Ding</b></u>, Haiming Jin, Jianrong Ding, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong. <i>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems, 2023.</i> <b><font color="#BD666D">CCF-B.</font></b> [paper] 
 
-- <div class="pubtitle">ACM IMWUT'23</div> &nbsp; <b>[Soil Moisture Sensing with UAV-Mounted IR-UWB Radar and Deep Learning](https://dl.acm.org/doi/abs/10.1145/3580867).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Xiaocheng Wang, Yongkui Zhang, Lu Su, Wentian Hao, Mingyuan Tao, Xinbing Wang, Chenghu Zhou. <br /> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Vol. 7, No. 1, Article 11, 2023.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [paper]
+- <div class="pubtitle">ACM IMWUT'23</div> &nbsp; <b>[Soil Moisture Sensing with UAV-Mounted IR-UWB Radar and Deep Learning](https://dl.acm.org/doi/abs/10.1145/3580867). <u><b>Rong Ding</b></u>, Haiming Jin, Xiaocheng Wang, Yongkui Zhang, Lu Su, Wentian Hao, Mingyuan Tao, Xinbing Wang, Chenghu Zhou. <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Vol. 7, No. 1, Article 11, 2023.</i> <b><font color="#BD666D">CCF-A.</font></b> [paper]
 
-- <div class="pubtitle">IEEE INFOCOM'23</div> &nbsp; <b>[Rotation Speed Sensing with mmWave Radar](https://ieeexplore.ieee.org/abstract/document/10229066).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Dingman Shen. <br /> <i>IEEE International Conference on Computer Communications, 2023.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [paper]
+- <div class="pubtitle">IEEE INFOCOM'23</div> &nbsp; <b>[Rotation Speed Sensing with mmWave Radar](https://ieeexplore.ieee.org/abstract/document/10229066). <u><b>Rong Ding</b></u>, Haiming Jin, Dingman Shen. <i>IEEE International Conference on Computer Communications, 2023.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> [paper]
 
-- <div class="pubtitle">IEEE INFOCOM'21</div> &nbsp; <b>[Multi-Agent Reinforcement Learning for Urban Crowd Sensing with For-Hire Vehicles](https://ieeexplore.ieee.org/document/9488713).</b> <u><b>Rong Ding</b></u>,  Zhaoxing Yang, Yifei Wei, Haiming Jin, Xinbing Wang. <br /> <i>IEEE International Conference on Computer Communications, 2021.</i> <br /> <b><font color="#BD666D">CCF-A.</font></b> <br /> [paper]
+- <div class="pubtitle">IEEE INFOCOM'21</div> &nbsp; <b>[Multi-Agent Reinforcement Learning for Urban Crowd Sensing with For-Hire Vehicles](https://ieeexplore.ieee.org/document/9488713).</b> <u><b>Rong Ding</b></u>,  Zhaoxing Yang, Yifei Wei, Haiming Jin, Xinbing Wang. <i>IEEE International Conference on Computer Communications, 2021.</i> <b><font color="#BD666D">CCF-A.</font></b> [paper]
 
 
 # 🎖 Honors and Awards
